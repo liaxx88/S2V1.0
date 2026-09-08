@@ -1,0 +1,56 @@
+{
+  "branch": "master",
+  "commit": "b85665d8f674e93c1e07446a9a2b29be7f797910",
+  "created_utc": "2026-09-07T13:40:29.810958+00:00",
+  "files": {
+    "ppmlhdfe.ado": {
+      "bytes": 14480,
+      "etag": "\"078fbac7bd033a44a79936d6f05dd8d082f430f5fd1feb82b814f001fd6bf166\"",
+      "sha256": "0c1f65bb13e2a8a7ceb157a6fc38b70fd4de16b97412b5de0aef46c86e1a91b0",
+      "url": "https://raw.githubusercontent.com/sergiocorreia/ppmlhdfe/b85665d8f674e93c1e07446a9a2b29be7f797910/src/ppmlhdfe.ado"
+    },
+    "ppmlhdfe.mata": {
+      "bytes": 33442,
+      "etag": "\"1e9dd0d0a57aea6d8a12f12c22116086f00a935dfd752e9f9a69ff6fe6a7c7b0\"",
+      "sha256": "20246794d857a76c96eeb8d5e2ddce0787e26da9169f8d2e9158799bc4b66135",
+      "url": "https://raw.githubusercontent.com/sergiocorreia/ppmlhdfe/b85665d8f674e93c1e07446a9a2b29be7f797910/src/ppmlhdfe.mata"
+    },
+    "ppmlhdfe.sthlp": {
+      "bytes": 17558,
+      "etag": "\"b244ac9f3c651cd7fbab2ee4e0ee84142af21e7eece2e8063867c93042469a9d\"",
+      "sha256": "28baa95bd5b6d2887736d1fe334edec95f40f9defdc1cb87ff70b0e22da8ea30",
+      "url": "https://raw.githubusercontent.com/sergiocorreia/ppmlhdfe/b85665d8f674e93c1e07446a9a2b29be7f797910/src/ppmlhdfe.sthlp"
+    },
+    "ppmlhdfe_functions.mata": {
+      "bytes": 12137,
+      "etag": "\"bbb8a366cc02379bea6b99c8387993c65ffc49995f4a8175dc910960d5f68213\"",
+      "sha256": "dcedc8070f2224572b1832b1d0b3e2c04d8c15ea92aa6357ef784e58330bbc23",
+      "url": "https://raw.githubusercontent.com/sergiocorreia/ppmlhdfe/b85665d8f674e93c1e07446a9a2b29be7f797910/src/ppmlhdfe_functions.mata"
+    },
+    "ppmlhdfe_header.ado": {
+      "bytes": 1872,
+      "etag": "\"c2c9da590a5814ca1d1dd1cb00b363822e88c64cbaf8b72b2625083a2e84bf35\"",
+      "sha256": "ed4ecd016b75635fb6c970f1b5a6fd43f2dd89ab6829b8e75110a224ea8aa851",
+      "url": "https://raw.githubusercontent.com/sergiocorreia/ppmlhdfe/b85665d8f674e93c1e07446a9a2b29be7f797910/src/ppmlhdfe_header.ado"
+    },
+    "ppmlhdfe_p.ado": {
+      "bytes": 3909,
+      "etag": "\"f608fa9d2d85cfaecd8ac0a4b9319b7f2e5d58f8e8d1a9b5c35fabda961c8caf\"",
+      "sha256": "49a276f6c9f9099831c17d7e0b4c8f66b479af4036970a10453d052c52502e73",
+      "url": "https://raw.githubusercontent.com/sergiocorreia/ppmlhdfe/b85665d8f674e93c1e07446a9a2b29be7f797910/src/ppmlhdfe_p.ado"
+    },
+    "ppmlhdfe_separation_relu.mata": {
+      "bytes": 12650,
+      "etag": "\"9ccf74b7fc5ee9e08f8d29531e935e60ea0434c78c04af8f57dd87d99bf87198\"",
+      "sha256": "e7b7f8d58fb578255a76a7a79b430860956e7af0ea399f7b1dea73d9b3329c21",
+      "url": "https://raw.githubusercontent.com/sergiocorreia/ppmlhdfe/b85665d8f674e93c1e07446a9a2b29be7f797910/src/ppmlhdfe_separation_relu.mata"
+    },
+    "ppmlhdfe_separation_simplex.mata": {
+      "bytes": 22880,
+      "etag": "\"0eec228db728bf8818d5426defea92d892ba0ff5e4505e37d731d7fa5c0a339e\"",
+      "sha256": "ea1c5f342080011fe870d19c88340f0a7ec554ac7eec6902ad65b2f0b5038fd9",
+      "url": "https://raw.githubusercontent.com/sergiocorreia/ppmlhdfe/b85665d8f674e93c1e07446a9a2b29be7f797910/src/ppmlhdfe_separation_simplex.mata"
+    }
+  },
+  "repository": "https://github.com/sergiocorreia/ppmlhdfe"
+}
