@@ -1,0 +1,15 @@
+\begin{tabular}{@{}l*{4}{>{\centering\arraybackslash}p{0.90in}}@{}}
+\toprule
+ & State-week PPML & Any-petition LPM & Count OLS & Conditional PPML \\
+\midrule
+P95 heat measure, weeks 1--4 & 0.00092 & $1.24\times 10^{-5}$ & $1.81\times 10^{-6}$ & 0.01119 \\
+State-cluster standard error & (0.00404) & ($ 2.71\times 10^{-5} $) & ($ 3.52\times 10^{-5} $) & (0.00646) \\
+County $\times$ month-of-year FE & No & No & No & Yes \\
+State $\times$ exact-week FE & No & No & No & Yes \\
+State $\times$ month-of-year FE & Yes & Yes & Yes & No \\
+National exact-week FE & Yes & Yes & Yes & No \\
+County FE & No & Yes & Yes & No \\
+Lag-12-month employment offset & Yes & No & No & Yes \\
+Observations & 34,667 & 2,260,083 & 2,260,083 & 192,690 \\
+\bottomrule
+\end{tabular}
