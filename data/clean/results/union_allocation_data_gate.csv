@@ -1,0 +1,8 @@
+metric,value,threshold,pass
+gate2_petition_cohorts,21990,"fixed 21,990",True
+parent_union_mapped,17089,>=70%,True
+parent_union_mapping_pct,77.71259663483401,>=70%,True
+multi_county_cell_petitions,6959,">=5,000",True
+multi_county_share_mapped_pct,40.722101936918484,>=30%,True
+qualifying_union_state_month_cells,2258,descriptive,True
+organizer_allocation_gate,PASS,all three gates,True

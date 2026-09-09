@@ -1,0 +1,2 @@
+method,clusters,repetitions,seed,observed_score,extreme_two_sided,two_sided_p
+state-cluster Rademacher wild-score bootstrap,48,9999,20260830,245.25174970467933,881,0.0882

@@ -1,0 +1,3 @@
+design,repetitions,observed_score,permutation_score_mean,permutation_score_sd,two_sided_extreme,two_sided_p,right_tail_extreme,right_tail_p
+county_year,999,245.25174970467933,-47.22672350200887,322.5838085485309,453,0.454,185,0.186
+state_year_block,999,245.25174970467933,-64.33000960037783,154.94118485869322,144,0.145,24,0.025

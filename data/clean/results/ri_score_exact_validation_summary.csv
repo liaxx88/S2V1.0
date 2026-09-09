@@ -1,0 +1,3 @@
+design,requested_refits,valid_refits,spearman_score_beta,validation_status,validation_exact_two_sided_extreme,validation_exact_two_sided_p
+county_year,100,100,0.9999039903990398,VALIDATED,0,0.009900990099009901
+state_year_block,100,100,0.9998439843984397,VALIDATED,12,0.12871287128712872

@@ -1,0 +1,11 @@
+metric,value,note
+county_universe,3105.0,48-state Gate 2 county universe
+primary_exposure_counties,2123.0,sector coverage >=80%
+primary_exposure_county_pct,68.37359098228663,unweighted county share
+employment_weighted_sector_coverage,0.9778372917382543,2010 private-employment weighted
+naics3_eligible_counties,1960.0,published NAICS3 coverage >=80%
+median_naics3_coverage,0.8633787469925334,county median
+common_support_rows,10594.0,iterative intersection across four primary outcomes
+common_support_petitions,4323.0,all petitions on common support
+common_support_certifications,2063.0,closure-based certifications
+common_support_tally_certifications,2210.0,union-to-certify tally proxy
